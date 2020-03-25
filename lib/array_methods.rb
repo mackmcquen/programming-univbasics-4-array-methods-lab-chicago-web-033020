@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
 array.sort(array).last = "wow"
-array.sort(array).first = ""
+array.sort(array).first = "I"
 end
 
 def using_reverse(array)
